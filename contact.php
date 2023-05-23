@@ -152,7 +152,7 @@
             ?>
           </h3>
           <div class="line3"></div>
-          <form class="pt-4" action="https://gasparmedic.github.io/contact.php" method="post">
+          <form class="pt-4" action="contact.php" method="post">
             <label>Ime i prezime</label>
             <input type="text" class="input-field" name="name" required />
             <label>Email</label>
