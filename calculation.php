@@ -255,7 +255,7 @@
         <div class="col-md-12">
           <h2 class="head3"> Calculations </h2>
           <div class="line3"></div>
-          <form class="pt-4" action="http://localhost:9999/calculation.php" method="post">
+          <form class="pt-4" action="https://gasparmedic.github.io/calculation.php" method="post">
             <table class="calculate">
               <tr>
                 <td>
